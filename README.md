@@ -38,6 +38,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrStarkEG&show_icons=true&locale=en&layout=compact" alt="Ahmed Elshahat's Top Languages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MrStarkEG&show_icons=true&locale=en" alt="Ahmed Elshahat's GitHub Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MrStarkEG" alt="Ahmed Elshahat's GitHub Stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MrStarkEG" alt="Ahmed Elshahat's GitHub Streak" /></p>
