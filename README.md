@@ -5,22 +5,23 @@ A passionate developer from Egypt.
 
 ## About Me
 
-I'm a passionate developer from Egypt. Currently learning ReactJS and a big fan of Python.
+I'm a passionate developer from Egypt. Currently learning ReactJS and a BIG fan of Python.
+![Nerd Guy](https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif)
 
 ## Find Me On
 
 - [Twitter](https://twitter.com/MrStarkEG1)
 - [Facebook](https://www.facebook.com/MrStarkEG/)
+- [Telegram](https://t.me/MrStarkEG)
+- [Instagram](https://www.instagram.com/stark.eg/)
 
-![Nerd Guy](https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif)
 
 ## Skills
-
-- Python
-- HTML5
-- CSS3
-- JavaScript
-- SASS
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+![SASS](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg)
 
 ## GitHub Stats
 
