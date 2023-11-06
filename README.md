@@ -7,13 +7,13 @@
 <p align="left"> <a href="https://twitter.com/MrStarkEG1" target="blank"><img src="https://img.shields.io/twitter/follow/MrStarkEG1?logo=twitter&style=for-the-badge" alt="MrStarkEG1" /></a> </p>
 
 - I’m currently learning **ReactJS**
--  Ask me about **Python, HTML5, CSS3, JavaScript, SASS**
--  How to reach me: ![Teleram:MrStarkEG](https://t.me/MrStarkEG)
+- A HUGE fan of **Python**
+- You can reach me on Telegram : <a href="https://t.me/MrStarkEG" target="blank">MrStarkEG</a>
 
 <h3 align="left">You can find me on:</h3>
 <p align="left">
 <a href="https://twitter.com/MrStarkEG1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ahmed Elshahat on Twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ahmed-elshahat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahmed Elshahat on LinkedIn" height="30" width="40" /></a>
+<a href="https://www.instagram.com/stark.eg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stark.eg on Instagram" height="30" width="40" /></a>
 <a href="https://www.facebook.com/MrStarkEG/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ahmed Elshahat on Facebook" height="30" width="40" /></a>
 </p>
 
