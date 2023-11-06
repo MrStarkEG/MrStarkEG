@@ -6,7 +6,10 @@ A passionate developer from Egypt.
 ## About Me
 
 I'm a passionate developer from Egypt. Currently learning ReactJS and a BIG fan of Python.
-![Nerd Guy](https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif)
+
+<div style="float: right;">
+  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="some nerd guy 😁" width="200" height="200" />
+</div>
 
 ## Find Me On
 
@@ -15,13 +18,12 @@ I'm a passionate developer from Egypt. Currently learning ReactJS and a BIG fan 
 - [Telegram](https://t.me/MrStarkEG)
 - [Instagram](https://www.instagram.com/stark.eg/)
 
-
 ## Skills
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
-![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-![SASS](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" alt="SASS">
 
 ## GitHub Stats
 
