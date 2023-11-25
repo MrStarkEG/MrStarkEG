@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/MrStarkEG1" target="blank"><img src="https://img.shields.io/twitter/follow/MrStarkEG1?logo=twitter&style=for-the-badge" alt="MrStarkEG1" /></a> </p>
 
-- I’m currently learning **ReactJS**
+- I’m currently learning **NodeJS**
 - A HUGE fan of **Python**
 - You can reach me on Telegram : <a href="https://t.me/MrStarkEG" target="blank">MrStarkEG</a>
 
