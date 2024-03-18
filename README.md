@@ -1,6 +1,6 @@
 <h1 align="center">Hi, Ahmed Elshahat right here 🥰</h1>
 <h3 align="center">A passionate developer from Egypt.</h3>
-<img align="right" alt="Nerd Guy" width="200" src="https://media1.tenor.com/m/xqFAeIOa_aYAAAAC/type-computer.gif">
+<img align="right" alt="Nerd Cat" width="300" src="https://media1.tenor.com/m/xqFAeIOa_aYAAAAC/type-computer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MrStarkEG&label=Profile%20views&color=0e75b6&style=flat" alt="MrStarkEG" /> </p>
 
