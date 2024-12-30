@@ -13,7 +13,7 @@
 <h3 align="left">You can find me on:</h3>
 <p align="left">
 <a href="https://twitter.com/MrStarkEG1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ahmed Elshahat on Twitter" height="30" width="40" /></a>
-<a href="https://www.instagram.com/stark.eg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stark.eg on Instagram" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mrstarkeg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrstarkeg on Instagram" height="30" width="40" /></a>
 <a href="https://www.facebook.com/MrStarkEG/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ahmed Elshahat on Facebook" height="30" width="40" /></a>
 </p>
 
