@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey There👋!</h1>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Ahmed Elshahat from Egypt<br><br>- 🔭 I’m working as a Software Engineer<br>- 📚 I'm currently learning Rust<br>- ⚡ In my free time I solve problems or learn a new skill.</p>
+<p align="left">I'm Ahmed Elshahat from Egypt<br><br>- 🔭 I’m working as a Software Engineer. <br>- 📚 I'm currently learning Rust<br>- ⚡ In my free time I solve problems or learn a new skill.</p>
 
 ###
 
