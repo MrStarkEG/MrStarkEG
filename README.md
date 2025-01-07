@@ -1,12 +1,12 @@
 ###
 
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=mrstarkeg&repo=github-visitors-badge&countColor=%237B1E7A"  />
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=mrstarkeg&repo=github-visitors-badge&countColor=%237B1E7A"/>
 </div>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey There 👋!</h1>
 
 
 ###
@@ -25,11 +25,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
-<p align="left">I'm Ahmed Elshahat from Egypt<br><br>- 🔭 I’m working as a Software Engineer<br>- 📚 I'm currently learning Rust<br>- ⚡ In my free time I solve problems or learn a new skill.</p>
+<p align="left">I'm Ahmed Elshahat from Egypt<br><br>- 🔭 I’m working as a Software Engineer.<br>- 📚 I'm currently learning Rust<br>- ⚡ In my free time I solve problems or learn a new skill.</p>
 
 ###
 
@@ -67,10 +67,11 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
 ###
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MrStarkEG&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com/?user=mrstarkeg&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3
+" alt="animation" />
 
 ###
